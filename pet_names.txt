@@ -1,0 +1,810 @@
+=== bgsi_images ===
+Abyssal Dragon
+Air Basilisk
+Ancient One
+Angel Bunny
+Angel
+Avernus
+Beach Boi
+Bear
+Beelzebub
+Beta TV
+Bionic Shard
+Bongo Kitty
+Bow Bunny
+Bronze Bunny
+Bug Amber
+Bunnnny
+Bunny Cone
+Bunny Doggy
+Bunny
+Captain Monkey
+Captains Curse
+Capybara Plushie
+Cardinal Bunny
+Carrot Pufferfish
+Cave Bat
+Cave Mole
+Cerberus
+Chance Dragon
+Chest Mimic
+Chocolate Bunny
+Chocolate Sundae Champion
+Chronos
+Chubby Bunny
+Competitor Doggy
+Corrupt Glitch
+Crescent Empress
+Crimson Bloodmoon
+Crimson Butterfly
+Crystal Teddy
+Crystal Unicorn
+Cute Deer
+Cyber Wolf
+Cyborg Phoenix
+D0ggy1337
+Dark Bat
+Dark Dragon
+Dark Lord
+Dark Phoenix
+Dark Serpent
+Darkness Creature
+Dawn
+Deer
+Dementor
+Demon Angel
+Demon Doggy
+Demon
+Demonic Dogcat
+Demonic Hydra
+Demonweb
+Diamond Hexarium
+Diamond Serpent
+Dice Split
+Dinosaur
+Disco Ball
+Discord Imp
+Doggy Pile
+Doggy
+DOOF
+Dowodle
+Dragon Plushie
+Dragon
+Dragonfruit
+Dreamscape
+Dualcorn
+Dusk
+Easter Basket
+Easter Egg
+Easter Fluffle
+Easter Serpent
+Egg Bunny
+Electra Hydra
+Electra
+Electric Basilisk
+Elite Challenger
+Elite Soul
+Emerald Bat
+Emerald Golem
+Emerald Wolf
+Enlightened Kitty
+Enraged Phoenix
+Equalizer
+Ethereal Bunny
+Everblaze
+Evil Shock
+Fancy Demon
+Fire Basilisk
+Fire Guardian
+Flying Bunny
+Flying Gem
+Flying Pig
+Fossil Dragon
+Fossil Ghost
+Fossilus
+Fox
+Galaxy Dice
+Game Doggy
+Game Master
+Gamer Boi
+Giant Chocolate Chicken
+Glyph Warrior
+Godly Gem
+Golden Dragon
+Golden Golem
+Golem
+Green Angel
+Green Hydra
+Ground Golem
+Hacker Prism
+Happy Dice
+Hatchling
+Hell Bat
+Hell Crawler
+Hell Demon
+Hell Dragon
+Hell Piggy
+Hexarium
+Hologram Dragon
+Holy Egg
+Holy Shock
+Hyperwave Kitty
+Ice Basilisk
+Ice Deer
+Ice Dragon
+Ice Kitty
+Ice Wolf
+Infernal
+Inferno Cube
+Inferno Demon
+Inferno Dragon
+Infernus
+Jackpot
+Judgement
+King Doggy
+King Pufferfish
+King Soul
+Kitsune
+Kitty
+Kiwi Dragon
+Kraken
+Lemon Dragon
+Long Kitty
+Lord Shock
+Luminosity
+Lunar Deity
+Lunar Fox
+Lunar Serpent
+Lunarcorn
+Magma Bear
+Magma Deer
+Magma Doggy
+Magma Fox
+Magmas
+MAN FACE GOD
+Manarium
+Mangorium
+Manicorn
+Manny
+Martian Kitty
+Mech Robot
+Midas
+Mining Bat
+Mining Doggy
+Mint Sundae Champion
+Monkey
+Monolith
+Moon Deer
+Moonburst
+Moonlight
+Mouse
+Neapolitan Stack
+Nebula
+Neon Doggy
+Neon Elemental
+Neon Wire Eye
+Neon Wyvern
+Night Crawler
+Noctis
+NULLVoid
+Ophanim
+Orange Deer
+Ore Golem
+Overlord Plushie
+Overseer
+Panda
+Paper Bunny
+Paper Doggy
+Parasite
+Patronus
+Piggy
+Pineapple Tourist
+Pirate Kitty
+Polar Bear
+Popsicle Trio
+Prismatic
+Prophet
+Queen Kitty
+Queen of Hearts
+Rainbow Blitz
+Rainbow Marshmellow
+Rainbow Shock
+Red Golem
+Researcher Doggy
+Rigby
+Ring Master
+Robo Kitty
+ROUND
+Royal Guardian
+Royal Trophy
+Ruby Golem
+Rune Guardian
+Rune Stone
+Runic Defender
+Runic Master
+Runic Prism
+Seagull
+Security System
+Seraph
+Seraphic Bunny
+Sigma Serpent
+Silly Doggy
+Silver Fox
+Sir Doggyton
+Skeletal Deer
+Sleepy Bunny
+Soarin Surfer
+Solar Deity
+Space Bull
+Space Invader
+Space Mouse
+Star Charm
+Starlight
+Starry Lamb
+Stone Gargoyle
+Strawberry Doggy
+Strawberry Sundae Champion
+Strawhat Dragon
+Sunburst
+Sundae Cone
+Sundae Doggy
+Sweet Treat
+The Moon
+The Overlord
+The Sun
+Toilet Doggy
+Tourist Doggy
+Trio Cube
+Umbra
+Unicorn
+Vanilla Sundae Champion
+Vaporium
+Virus
+Void Bat
+Void Demon
+Void Fox
+Void Kitty
+Water Serpent
+Watermelon Boi
+Wind Fairy
+Wolf
+Wolflord
+Yellow Fox
+
+=== bgsi_images_mythic ===
+Mythic Abyssal Dragon
+Mythic Air Basilisk
+Mythic Ancient One
+Mythic Avernus
+Mythic Beelzebub
+Mythic Bionic Shard
+Mythic Bongo Kitty
+Mythic Bug Amber
+Mythic Captain Monkey
+Mythic Captains Curse
+Mythic Capybara Plushie
+Mythic Cardinal Bunny
+Mythic Carrot Pufferfish
+Mythic Chest Mimic
+Mythic Chocolate Bunny
+Mythic Chocolate Sundae Champion
+Mythic Corrupt Glitch
+Mythic Crescent Empress
+Mythic Crimson Bloodmoon
+Mythic Crimson Butterfly
+Mythic Crystal Teddy
+Mythic Crystal Unicorn
+Mythic Cyborg Phoenix
+Mythic D0ggy1337
+Mythic Dark Phoenix
+Mythic Darkness Creature
+Mythic Dementor
+Mythic Demonic Hydra
+Mythic Demonweb
+Mythic Diamond Hexarium
+Mythic Diamond Serpent
+Mythic Dice Split
+Mythic DOOF
+Mythic Dragon Plushie
+Mythic Dragonfruit
+Mythic Dreamscape
+Mythic Dualcorn
+Mythic Easter Basket
+Mythic Easter Serpent
+Mythic Electra
+Mythic Electric Basilisk
+Mythic Elite Soul
+Mythic Emerald Golem
+Mythic Equalizer
+Mythic Ethereal Bunny
+Mythic Everblaze
+Mythic Fire Basilisk
+Mythic Fire Guardian
+Mythic Flying Pig
+Mythic Fossil Ghost
+Mythic Fossilus
+Mythic Game Master
+Mythic Giant Chocolate Chicken
+Mythic Glyph Warrior
+Mythic Godly Gem
+Mythic Green Hydra
+Mythic Hacker Prism
+Mythic Hexarium
+Mythic Holy Egg
+Mythic Hyperwave Kitty
+Mythic Ice Basilisk
+Mythic Infernal
+Mythic Inferno Cube
+Mythic Inferno Dragon
+Mythic Jackpot
+Mythic King Doggy
+Mythic King Pufferfish
+Mythic Kiwi Dragon
+Mythic Kraken
+Mythic Lord Shock
+Mythic Luminosity
+Mythic Lunar Serpent
+Mythic Magmas
+Mythic MAN FACE GOD
+Mythic Manarium
+Mythic Mangorium
+Mythic Mech Robot
+Mythic Midas
+Mythic Mint Sundae Champion
+Mythic Monolith
+Mythic Moon Deer
+Mythic Moonburst
+Mythic Moonlight
+Mythic Nebula
+Mythic Neon Elemental
+Mythic Neon Wire Eye
+Mythic Neon Wyvern
+Mythic Noctis
+Mythic NULLVoid
+Mythic Ophanim
+Mythic Overlord Plushie
+Mythic Overseer
+Mythic Parasite
+Mythic Patronus
+Mythic Pineapple Tourist
+Mythic Popsicle Trio
+Mythic Prismatic
+Mythic Prophet
+Mythic Queen Kitty
+Mythic Rainbow Marshmellow
+Mythic Rainbow Shock
+Mythic Rigby
+Mythic Ring Master
+Mythic ROUND
+Mythic Royal Guardian
+Mythic Royal Trophy
+Mythic Runic Defender
+Mythic Seraph
+Mythic Seraphic Bunny
+Mythic Sigma Serpent
+Mythic Silly Doggy
+Mythic Sir Doggyton
+Mythic Soarin Surfer
+Mythic Space Invader
+Mythic Star Charm
+Mythic Starlight
+Mythic Stone Gargoyle
+Mythic Strawberry Sundae Champion
+Mythic Sunburst
+Mythic Sundae Cone
+Mythic Sweet Treat
+Mythic The Overlord
+Mythic The Sun
+Mythic Toilet Doggy
+Mythic Trio Cube
+Mythic Unicorn
+Mythic Vanilla Sundae Champion
+Mythic Virus
+Mythic Water Serpent
+Mythic Wolflord
+
+=== bgsi_images_shiny ===
+Shiny Abyssal Dragon
+Shiny Air Basilisk
+Shiny Ancient One
+Shiny Angel Bunny
+Shiny Angel
+Shiny Avernus
+Shiny Beach Boi
+Shiny Bear
+Shiny Beelzebub
+Shiny Beta TV
+Shiny Bionic Shard
+Shiny Bongo Kitty
+Shiny Bow Bunny
+Shiny Bronze Bunny
+Shiny Bug Amber
+Shiny Bunnnny
+Shiny Bunny Cone
+Shiny Bunny Doggy
+Shiny Bunny
+Shiny Captain Monkey
+Shiny Captains Curse
+Shiny Capybara Plushie
+Shiny Cardinal Bunny
+Shiny Carrot Pufferfish
+Shiny Cave Bat
+Shiny Cave Mole
+Shiny Cerberus
+Shiny Chance Dragon
+Shiny Chest Mimic
+Shiny Chocolate Bunny
+Shiny Chocolate Sundae Champion
+Shiny Chronos
+Shiny Chubby Bunny
+Shiny Competitor Doggy
+Shiny Corrupt Glitch
+Shiny Crescent Empress
+Shiny Crimson Bloodmoon
+Shiny Crimson Butterfly
+Shiny Crystal Teddy
+Shiny Crystal Unicorn
+Shiny Cute Deer
+Shiny Cyber Wolf
+Shiny Cyborg Phoenix
+Shiny D0ggy1337
+Shiny Dark Bat
+Shiny Dark Dragon
+Shiny Dark Lord
+Shiny Dark Phoenix
+Shiny Dark Serpent
+Shiny Darkness Creature
+Shiny Dawn
+Shiny Deer
+Shiny Dementor
+Shiny Demon Angel
+Shiny Demon Doggy
+Shiny Demon
+Shiny Demonic Dogcat
+Shiny Demonic Hydra
+Shiny Demonweb
+Shiny Diamond Hexarium
+Shiny Diamond Serpent
+Shiny Dice Split
+Shiny Dinosaur
+Shiny Disco Ball
+Shiny Discord Imp
+Shiny Doggy Pile
+Shiny Doggy
+Shiny DOOF
+Shiny Dowodle
+Shiny Dragon Plushie
+Shiny Dragon
+Shiny Dragonfruit
+Shiny Dreamscape
+Shiny Dualcorn
+Shiny Dusk
+Shiny Easter Basket
+Shiny Easter Egg
+Shiny Easter Fluffle
+Shiny Easter Serpent
+Shiny Egg Bunny
+Shiny Electra Hydra
+Shiny Electra
+Shiny Electric Basilisk
+Shiny Elite Challenger
+Shiny Elite Soul
+Shiny Emerald Bat
+Shiny Emerald Golem
+Shiny Emerald Wolf
+Shiny Enlightened Kitty
+Shiny Enraged Phoenix
+Shiny Equalizer
+Shiny Ethereal Bunny
+Shiny Everblaze
+Shiny Evil Shock
+Shiny Fancy Demon
+Shiny Fire Basilisk
+Shiny Fire Guardian
+Shiny Flying Bunny
+Shiny Flying Gem
+Shiny Flying Pig
+Shiny Fossil Dragon
+Shiny Fossil Ghost
+Shiny Fossilus
+Shiny Fox
+Shiny Galaxy Dice
+Shiny Game Doggy
+Shiny Game Master
+Shiny Gamer Boi
+Shiny Giant Chocolate Chicken
+Shiny Glyph Warrior
+Shiny Godly Gem
+Shiny Golden Dragon
+Shiny Golden Golem
+Shiny Golem
+Shiny Green Angel
+Shiny Green Hydra
+Shiny Ground Golem
+Shiny Hacker Prism
+Shiny Happy Dice
+Shiny Hatchling
+Shiny Hell Bat
+Shiny Hell Crawler
+Shiny Hell Demon
+Shiny Hell Dragon
+Shiny Hell Piggy
+Shiny Hexarium
+Shiny Hologram Dragon
+Shiny Holy Egg
+Shiny Holy Shock
+Shiny Hyperwave Kitty
+Shiny Ice Basilisk
+Shiny Ice Deer
+Shiny Ice Dragon
+Shiny Ice Kitty
+Shiny Ice Wolf
+Shiny Infernal
+Shiny Inferno Cube
+Shiny Inferno Demon
+Shiny Inferno Dragon
+Shiny Infernus
+Shiny Jackpot
+Shiny Judgement
+Shiny King Doggy
+Shiny King Pufferfish
+Shiny King Soul
+Shiny Kitsune
+Shiny Kitty
+Shiny Kiwi Dragon
+Shiny Kraken
+Shiny Lemon Dragon
+Shiny Long Kitty
+Shiny Lord Shock
+Shiny Luminosity
+Shiny Lunar Deity
+Shiny Lunar Fox
+Shiny Lunar Serpent
+Shiny Lunarcorn
+Shiny Magma Bear
+Shiny Magma Deer
+Shiny Magma Doggy
+Shiny Magma Fox
+Shiny Magmas
+Shiny MAN FACE GOD
+Shiny Manarium
+Shiny Mangorium
+Shiny Manicorn
+Shiny Manny
+Shiny Martian Kitty
+Shiny Mech Robot
+Shiny Midas
+Shiny Mining Bat
+Shiny Mining Doggy
+Shiny Mint Sundae Champion
+Shiny Monkey
+Shiny Monolith
+Shiny Moon Deer
+Shiny Moonburst
+Shiny Moonlight
+Shiny Mouse
+Shiny Neapolitan Stack
+Shiny Nebula
+Shiny Neon Doggy
+Shiny Neon Elemental
+Shiny Neon Wire Eye
+Shiny Neon Wyvern
+Shiny Night Crawler
+Shiny Noctis
+Shiny NULLVoid
+Shiny Ophanim
+Shiny Orange Deer
+Shiny Ore Golem
+Shiny Overlord Plushie
+Shiny Overseer
+Shiny Panda
+Shiny Paper Bunny
+Shiny Paper Doggy
+Shiny Parasite
+Shiny Patronus
+Shiny Piggy
+Shiny Pineapple Tourist
+Shiny Pirate Kitty
+Shiny Polar Bear
+Shiny Popsicle Trio
+Shiny Prismatic
+Shiny Prophet
+Shiny Queen Kitty
+Shiny Queen of Hearts
+Shiny Rainbow Blitz
+Shiny Rainbow Marshmellow
+Shiny Rainbow Shock
+Shiny Red Golem
+Shiny Researcher Doggy
+Shiny Rigby
+Shiny Ring Master
+Shiny Robo Kitty
+Shiny ROUND
+Shiny Royal Guardian
+Shiny Royal Trophy
+Shiny Ruby Golem
+Shiny Rune Guardian
+Shiny Rune Stone
+Shiny Runic Defender
+Shiny Runic Master
+Shiny Runic Prism
+Shiny Seagull
+Shiny Security System
+Shiny Seraph
+Shiny Seraphic Bunny
+Shiny Sigma Serpent
+Shiny Silly Doggy
+Shiny Silver Fox
+Shiny Sir Doggyton
+Shiny Skeletal Deer
+Shiny Sleepy Bunny
+Shiny Soarin Surfer
+Shiny Solar Deity
+Shiny Space Bull
+Shiny Space Invader
+Shiny Space Mouse
+Shiny Star Charm
+Shiny Starlight
+Shiny Starry Lamb
+Shiny Stone Gargoyle
+Shiny Strawberry Doggy
+Shiny Strawberry Sundae Champion
+Shiny Strawhat Dragon
+Shiny Sunburst
+Shiny Sundae Cone
+Shiny Sundae Doggy
+Shiny Sweet Treat
+Shiny The Moon
+Shiny The Overlord
+Shiny The Sun
+Shiny Toilet Doggy
+Shiny Tourist Doggy
+Shiny Trio Cube
+Shiny Umbra
+Shiny Unicorn
+Shiny Vanilla Sundae Champion
+Shiny Vaporium
+Shiny Virus
+Shiny Void Bat
+Shiny Void Demon
+Shiny Void Fox
+Shiny Void Kitty
+Shiny Water Serpent
+Shiny Watermelon Boi
+Shiny Wind Fairy
+Shiny Wolf
+Shiny Wolflord
+Shiny Yellow Fox
+
+=== bgsi_images_shiny_mythic ===
+Shiny Mythic Abyssal Dragon
+Shiny Mythic Air Basilisk
+Shiny Mythic Ancient One
+Shiny Mythic Avernus
+Shiny Mythic Beelzebub
+Shiny Mythic Bionic Shard
+Shiny Mythic Bongo Kitty
+Shiny Mythic Bug Amber
+Shiny Mythic Captain Monkey
+Shiny Mythic Captains Curse
+Shiny Mythic Capybara Plushie
+Shiny Mythic Cardinal Bunny
+Shiny Mythic Carrot Pufferfish
+Shiny Mythic Chest Mimic
+Shiny Mythic Chocolate Bunny
+Shiny Mythic Chocolate Sundae Champion
+Shiny Mythic Corrupt Glitch
+Shiny Mythic Crescent Empress
+Shiny Mythic Crimson Bloodmoon
+Shiny Mythic Crimson Butterfly
+Shiny Mythic Crystal Teddy
+Shiny Mythic Crystal Unicorn
+Shiny Mythic Cyborg Phoenix
+Shiny Mythic D0ggy1337
+Shiny Mythic Dark Phoenix
+Shiny Mythic Darkness Creature
+Shiny Mythic Dementor
+Shiny Mythic Demonic Hydra
+Shiny Mythic Demonweb
+Shiny Mythic Diamond Hexarium
+Shiny Mythic Diamond Serpent
+Shiny Mythic Dice Split
+Shiny Mythic DOOF
+Shiny Mythic Dragon Plushie
+Shiny Mythic Dragonfruit
+Shiny Mythic Dreamscape
+Shiny Mythic Dualcorn
+Shiny Mythic Easter Basket
+Shiny Mythic Easter Serpent
+Shiny Mythic Electra
+Shiny Mythic Electric Basilisk
+Shiny Mythic Elite Soul
+Shiny Mythic Emerald Golem
+Shiny Mythic Equalizer
+Shiny Mythic Ethereal Bunny
+Shiny Mythic Everblaze
+Shiny Mythic Fire Basilisk
+Shiny Mythic Fire Guardian
+Shiny Mythic Flying Pig
+Shiny Mythic Fossil Ghost
+Shiny Mythic Fossilus
+Shiny Mythic Game Master
+Shiny Mythic Giant Chocolate Chicken
+Shiny Mythic Glyph Warrior
+Shiny Mythic Godly Gem
+Shiny Mythic Green Hydra
+Shiny Mythic Hacker Prism
+Shiny Mythic Hexarium
+Shiny Mythic Holy Egg
+Shiny Mythic Hyperwave Kitty
+Shiny Mythic Ice Basilisk
+Shiny Mythic Infernal
+Shiny Mythic Inferno Cube
+Shiny Mythic Inferno Dragon
+Shiny Mythic Jackpot
+Shiny Mythic King Doggy
+Shiny Mythic King Pufferfish
+Shiny Mythic Kiwi Dragon
+Shiny Mythic Kraken
+Shiny Mythic Lord Shock
+Shiny Mythic Luminosity
+Shiny Mythic Lunar Serpent
+Shiny Mythic Magmas
+Shiny Mythic MAN FACE GOD
+Shiny Mythic Manarium
+Shiny Mythic Mangorium
+Shiny Mythic Mech Robot
+Shiny Mythic Midas
+Shiny Mythic Mint Sundae Champion
+Shiny Mythic Monolith
+Shiny Mythic Moon Deer
+Shiny Mythic Moonburst
+Shiny Mythic Moonlight
+Shiny Mythic Nebula
+Shiny Mythic Neon Elemental
+Shiny Mythic Neon Wire Eye
+Shiny Mythic Neon Wyvern
+Shiny Mythic Noctis
+Shiny Mythic NULLVoid
+Shiny Mythic Ophanim
+Shiny Mythic Overlord Plushie
+Shiny Mythic Overseer
+Shiny Mythic Parasite
+Shiny Mythic Patronus
+Shiny Mythic Pineapple Tourist
+Shiny Mythic Popsicle Trio
+Shiny Mythic Prismatic
+Shiny Mythic Prophet
+Shiny Mythic Queen Kitty
+Shiny Mythic Rainbow Marshmellow
+Shiny Mythic Rainbow Shock
+Shiny Mythic Rigby
+Shiny Mythic Ring Master
+Shiny Mythic ROUND
+Shiny Mythic Royal Guardian
+Shiny Mythic Royal Trophy
+Shiny Mythic Runic Defender
+Shiny Mythic Seraph
+Shiny Mythic Seraphic Bunny
+Shiny Mythic Sigma Serpent
+Shiny Mythic Silly Doggy
+Shiny Mythic Sir Doggyton
+Shiny Mythic Soarin Surfer
+Shiny Mythic Space Invader
+Shiny Mythic Star Charm
+Shiny Mythic Starlight
+Shiny Mythic Stone Gargoyle
+Shiny Mythic Strawberry Sundae Champion
+Shiny Mythic Sunburst
+Shiny Mythic Sundae Cone
+Shiny Mythic Sweet Treat
+Shiny Mythic The Overlord
+Shiny Mythic The Sun
+Shiny Mythic Toilet Doggy
+Shiny Mythic Trio Cube
+Shiny Mythic Unicorn
+Shiny Mythic Vanilla Sundae Champion
+Shiny Mythic Virus
+Shiny Mythic Water Serpent
+Shiny Mythic Wolflord
+
