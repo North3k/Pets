@@ -54,14 +54,6 @@ Chest Mimic
 Mythic Chest Mimic
 Shiny Chest Mimic
 Shiny Mythic Chest Mimic
-Chocolate Bunny
-Mythic Chocolate Bunny
-Shiny Chocolate Bunny
-Shiny Mythic Chocolate Bunny
-Chocolate Sundae Champion
-Mythic Chocolate Sundae Champion
-Shiny Chocolate Sundae Champion
-Shiny Mythic Chocolate Sundae Champion
 Corrupt Glitch
 Mythic Corrupt Glitch
 Shiny Corrupt Glitch
@@ -154,10 +146,6 @@ Easter Serpent
 Mythic Easter Serpent
 Shiny Easter Serpent
 Shiny Mythic Easter Serpent
-Electra
-Mythic Electra
-Shiny Electra
-Shiny Mythic Electra
 Electric Basilisk
 Mythic Electric Basilisk
 Shiny Electric Basilisk
@@ -166,10 +154,6 @@ Elite Soul
 Mythic Elite Soul
 Shiny Elite Soul
 Shiny Mythic Elite Soul
-Emerald Golem
-Mythic Emerald Golem
-Shiny Emerald Golem
-Shiny Mythic Emerald Golem
 Equalizer
 Mythic Equalizer
 Shiny Equalizer
